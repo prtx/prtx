@@ -15,4 +15,4 @@
 - -10% the cause for your OCD
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/prtx?cardType=level)](https://git.io/awesome-stats-card)
+<!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/prtx?cardType=level)](https://git.io/awesome-stats-card) -->
